@@ -1,0 +1,45 @@
+(Adapted from BSD license)
+Copyright (c) 2024 James S. Prell, all rights reserved
+
+IonSPA Software Academic License Agreement
+
+The IonSPA software ("Software") has been developed by the contributing researchers James S. Prell
+and others at the University of Oregon ("Developers") and made available through the University of Oregon ("UO") for your internal, non-profit research use. The Software was developed with funding support from UO and the National Institutes of Health. UO and the Developers allow researchers at your Institution to run, display, copy and modify Software on the following conditions:
+
+1. The Software remains at your Institution and is not published, distributed, or otherwise transferred or
+made available to other than Institution employees and students involved in research under your supervision.
+
+2. You agree to make results generated using Software available to other academic researchers for non-profit
+research purposes. If You wish to obtain Software for any commercial purposes, including fee-based service
+projects, You will need to execute a separate licensing agreement with the University of Oregon and pay a
+fee. In that case please contact: techtran@uoregon.edu. 
+
+3.  You retain in Software and any modifications to Software, the copyright, trademark, or other notices
+pertaining to Software as provided by UO and Developers.
+
+4. You provide the Developers with feedback on the use of the Software in your research, and that the
+Developers and UO are permitted to use any information You provide in making changes to the Software. All bug
+reports and technical questions shall be sent to the email address: jprell@uoregon.edu
+
+5. You acknowledge that the Developers, UO and its licensees may develop modifications to Software that may be
+substantially similar to your modifications of Software, and that the Developers, UO and its licensees shall
+not be constrained in any way by You in Developer’s, UO’s or its licensees’ use or management of such
+modifications. You acknowledge the right of the Developers and UO to prepare and publish modifications
+to Software that may be substantially similar or functionally equivalent to your modifications and
+improvements, and if You obtain patent protection for any modification or improvement to Software You agree
+not to allege or enjoin infringement of your patent by the Developers, UO or by any of UO’s licensees
+obtaining modifications or improvements to Software from the UO or the Developers.
+
+6. You agree to acknowledge the contribution Developers and Software make to your research, and cite
+appropriate references about the Software in your publications. The current citations for the Software
+can be found at:
+
+https://dx.doi.org/10.1016/j.ijms.2024.117290
+
+7. Any risk associated with using the Software at your institution is with You and your Institution.
+Software is experimental in nature and is made available as a research courtesy "AS IS," without obligation
+by UO to provide accompanying services or support.
+
+8. UO AND THE DEVELOPERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES REGARDING THE SOFTWARE, WHETHER EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES PERTAINING TO NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS
+FOR A PARTICULAR PURPOSE.
