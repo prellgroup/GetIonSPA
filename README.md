@@ -2,13 +2,10 @@
 
 PLEASE GO TO THE "Releases" TAB ON THE RIGHT HAND SIDE OF THE GetIonSPA GITHUB PAGE TO DOWNLOAD THE ZIP FOLDER FOR THE LATEST VERSION OF IONSPA. THE ZIP FOLDER CONTAINS ALL FILES NEEDED TO RUN THE PROGRAM.
 
-Repository space for development of IONSPA programs with Jim Prell and research group at University of Oregon
+Repository space for public release of IONSPA programs by the group of Prof. James S. Prell at University of Oregon
 
 The programs (except the GUI) have been tested on both Windows and Linux platforms. In general, they should be fully cross-platform, though installation details can be expected
 to vary.
-
-This repository is intended for shared development of the IonSPA programs.  This will allow for public release along
-with continued development.
 
 IonSPA is a collection of programs to model ion internal energy and fragmentation (unfolding) of large ions as they pass through
 a collision cell. Collision cell models have been implemented to model both Waters and Agilent cells, though other cell models can
@@ -20,7 +17,7 @@ to predict expected behavior on other types of cells with different collision ga
 The programs (except the GUI) have been tested on both Windows and Linux platforms. In general, they should be fully cross-platform, though installation details can be expected
 to vary.
 
-Full details will appear in forthcoming papers.
+Full details are described in the papers reference in the Bibliography below.
 
 ## Currently active programs:
     Primary command line programs:
