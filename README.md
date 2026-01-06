@@ -1,5 +1,7 @@
 # IonSPA
 
+PLEASE GO TO THE "Releases" TAB ON THE RIGHT HAND SIDE OF THE GetIonSPA GITHUB PAGE TO DOWNLOAD THE ZIP FOLDER FOR THE LATEST VERSION OF IONSPA. THE ZIP FOLDER CONTAINS ALL FILES NEEDED TO RUN THE PROGRAM.
+
 Repository space for development of IONSPA programs with Jim Prell and research group at University of Oregon
 
 The programs (except the GUI) have been tested on both Windows and Linux platforms. In general, they should be fully cross-platform, though installation details can be expected
