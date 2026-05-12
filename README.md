@@ -1,3 +1,7 @@
+# SimIonSPA
+
+SimIonSPA (IonSPA heating/cooling/kinetic energy damping model implemented within SIMION 8.1) is currently available by request from Jim Prell (jprell--at--uoregon--dot--edu). It will also be available soon directly via GitHub.
+
 # IonSPA
 
 PLEASE GO TO THE "Releases" TAB ON THE RIGHT HAND SIDE OF THE GetIonSPA GITHUB PAGE TO DOWNLOAD THE ZIP FOLDER FOR THE LATEST VERSION OF IONSPA. THE ZIP FOLDER CONTAINS ALL FILES NEEDED TO RUN THE PROGRAM.
