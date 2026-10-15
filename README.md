@@ -1,6 +1,6 @@
-# SimIonSPA
+# IonSPA(TM) for SIMION(R)
 
-SimIonSPA (IonSPA heating/cooling/kinetic energy damping model implemented within SIMION 8.1) is currently available by request from Jim Prell (jprell--at--uoregon--dot--edu). It will also be available soon directly via GitHub.
+IonSPA(TM) for SIMION(R) (IonSPA heating/cooling/kinetic energy damping model implemented within SIMION(R) v. 8.1) is currently available by request from Jim Prell (jprell--at--uoregon--dot--edu). It will also be available soon directly via GitHub.
 
 # IonSPA
 
