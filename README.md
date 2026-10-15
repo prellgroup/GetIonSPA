@@ -150,10 +150,10 @@ Also see files
 
 ## Bibliography
 
-1. James S. Prell, James S. "Modeling collisional kinetic energy damping, heating, and cooling of ions in mass spectrometers: A tutorial perspective", International Journal of Mass Spectrometry, 504 (2024), 117290. https://doi.org/10.1016/j.ijms.2024.117290
+1. Prell, James S. "Modeling collisional kinetic energy damping, heating, and cooling of ions in mass spectrometers: A tutorial perspective", Int. J. Mass Spectrom. 2024, 504, 117290. https://doi.org/10.1016/j.ijms.2024.117290
 
+2. Shepherd, S.O.; Green, A.W.; Wylie, E.P.; Newton, K.R.; Kurulugama, R.T.; Prell, J.S. "Determination of Thermochemical Barriers in Gas-Phase Multiple-Collision Induced Dissociation Experiments on Gas-Phase Protein Complexes", J. Am. Chem. Soc. 2025, 147, 46854-46870. https://dx.doi.org/10.1021/jacs.5c07327
 
-2. Shepherd, S.O.; Green, A.W.; Wylie, E.P.; Newton, K.R.; Kurulugama, R.T.; Prell, J.S. Determination of Thermochemical Barriers in Gas-Phase Multiple-Collision Induced Dissociation Experiments on Gas-Phase Protein Complexes, J. Am. Chem. Soc. 2025, 147, 46854-46870. https://dx.doi.org/10.1021/jacs.5c07327
+3. Paris, L.R.; Green, A.W.; Prell, J.S. Computed Vibrational Heat Capacities for Gas-Phase Biomolecular Ions, J. Am. Soc. Mass Spectrom. 2025, 36, 862-872. https://dx.doi.org/10.1021/jasms.5c00008
 
-
-3. Paris, L.R.; Green, A.W.; Prell, J.S. Computed Vibrational Heat Capacities for Gas-Phase Biomolecular Ions, J. Am. Soc. Mass Spectrom., 2025, 36, 862-872. https://dx.doi.org/10.1021/jasms.5c00008
+4. Green, A.W.; Prell, J.S. Modeling Energy Transfer Efficiency in Collision Induced Dissociation and Unfolding Using Molecular Dynamics Simulations, J. Am. Soc. Mass Spectrom. 2026, 37, 2552-2564. https://dx.doi.org/10.1021/jasms.6c00292
